@@ -3,7 +3,7 @@ import time
 import sqlite3
 from tkinter import messagebox
 import functools
-import os
+
 
 lozinka=0
 broj_pokusaja=2
